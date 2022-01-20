@@ -3,7 +3,7 @@
 Servus und herzlich willkommen zu meinem kleinen Corona-Quarantäne Projekt.
 Da ich aufgrund von Covid-19 in Quarantäne war, dachte ich mir, ich probiere mich einmal an PyGame und so entstand dieser kleine Spaceinvaders Klon.
 
-Zum Funktionieren benötigt das Programm den Resources Folder und sonst eigentlich nichts.
+Zum Funktionieren benötigt das Programm den Resources Folder und einen python interpreter, welcher selbst installiert werden muss.
 
 Das Projekt darf unter Namensnennung gerne nicht kommerziell veröffentlicht oder bearbeitet werden. (siehe PPS oder lizenz)
 
